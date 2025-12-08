@@ -30,7 +30,13 @@
 
 </div>
 
-<br/>
+<div align="center">
+
+### 👁️ Profile Views
+
+![](https://komarev.com/ghpvc/?username=KunalSewal&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</dev>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f0ef1fad-5b4f-4f1a-abe1-72fe00050fd6" alt="Fight Club Quote" width="70%"/>
@@ -94,7 +100,6 @@ me.say_hi()
 <td width="40%" align="center">
   <img src="https://github.com/user-attachments/assets/c8fd9ff2-b3a8-45b4-af99-6c24ab4d0068" alt="Cat Working" width="100%"/>
   <br/>
- 
 </td>
 </tr>
 </table>
@@ -180,19 +185,19 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KunalSewal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KunalSewal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=KunalSewal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSewal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KunalSewal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSewal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalSewal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalSewal&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -206,7 +211,7 @@ me.say_hi()
 <div align="center">
 
 ### 🧰 My Setup
-**VS Code** • **Git** • **Docker** • **Python** • **Jupyter**
+**Linux** • **VS Code** • **Git** • **Docker** • **Python** • **Jupyter**
 
 </div>
 
@@ -232,7 +237,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 <br/><br/>
 
 ### 🎵 Vibing to
-[![Spotify](https://novatorem-pi-seven-42.vercel.app/api/spotify)](https://open.spotify.com/user/31k6jrs6h4gh2w2blbpkxb2a2cte)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31k6jrs6h4gh2w2blbpkxb2a2cte)
 
 </div>
 
@@ -240,12 +245,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### 👁️ Profile Views
-
-![](https://komarev.com/ghpvc/?username=KunalSewal&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 <br/>
 
 **Thanks for stopping by! Have a great day! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>

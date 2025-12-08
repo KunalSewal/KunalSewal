@@ -28,15 +28,15 @@
   </a>
 </p>
 
-</div>
-
 <div align="center">
-
-### 👁️ Profile Views
-
+  
 ![](https://komarev.com/ghpvc/?username=KunalSewal&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-</dev>
+</div>
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f0ef1fad-5b4f-4f1a-abe1-72fe00050fd6" alt="Fight Club Quote" width="70%"/>
@@ -74,6 +74,8 @@ me.say_hi()
 
 ## 🔭 What I'm Working On
 
+<div align="center">
+
 <table>
 <tr>
 <td width="60%">
@@ -103,6 +105,8 @@ me.say_hi()
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -211,7 +215,7 @@ me.say_hi()
 <div align="center">
 
 ### 🧰 My Setup
-**Linux** • **VS Code** • **Git** • **Docker** • **Python** • **Jupyter**
+**VS Code** • **Git** • **Docker** • **Python** • **Jupyter**
 
 </div>
 
@@ -219,7 +223,7 @@ me.say_hi()
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div>
 
 I'm always open to interesting conversations and collaboration opportunities!
 
@@ -229,7 +233,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 🎓 Share knowledge and learn together
 
 <br/>
+</div>
 
+<div align="center">
+  
 <a href="https://linkedin.com/in/kunal-sewal">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -244,8 +251,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-<br/>
 
 **Thanks for stopping by! Have a great day! 🚀**
 

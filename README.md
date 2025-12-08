@@ -210,7 +210,6 @@ me.say_hi()
 
 > **"Simple workflows > Noisy setups"**  
 > Building practical, production-grade ML systems that solve real problems.  
-> No hype — just consistent progress, clean code, and continuous learning.
 
 <div align="center">
 

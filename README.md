@@ -28,11 +28,6 @@
   </a>
 </p>
 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=KunalSewal&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 </div>
 
